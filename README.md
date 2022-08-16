@@ -1,5 +1,5 @@
 # DadBotDestroyer
-A bot designed to cripple Dad Bot
+A bot designed to cripple [DadBot](https://github.com/AlekEagle/dadbot)
 
 ## Example config file
 
